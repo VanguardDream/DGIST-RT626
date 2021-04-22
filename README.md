@@ -25,7 +25,7 @@ python -m venv .RT626
 
 가상환경이 실행되면 아래 사진과 같이 Shell 명령어 창 가장 앞에 가상환경 이름인 `.RT626`이 강조된다.  
 
-![image](.\readme\1.png)
+![image](https://github.com/VanguardDream/DGIST-RT626/blob/master/readme/1.png?raw=true)
 
 
 가상환경에서 아래의 명령어로 Python 패키지를 설치한다.
