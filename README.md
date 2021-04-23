@@ -30,8 +30,8 @@ python -m venv .RT626
 
 가상환경에서 아래의 명령어로 Python 패키지를 설치한다.
 ```powershell
-pip install keras=2.3.1
-pip install tensorflow=2.2.0
+pip install keras==2.3.1
+pip install tensorflow==2.2.0
 pip install jupyter
 pip install ipykernel
 pip install pillow
