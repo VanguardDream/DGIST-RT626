@@ -1,0 +1,7 @@
+keras==2.3.1
+tensorflow
+jupyter
+ipykernel
+pillow
+matplotlib
+
